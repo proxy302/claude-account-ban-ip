@@ -2,7 +2,7 @@
 
 **Proxy302's Claude AI-subscription ISP is a dedicated static ISP IP built for keeping one Claude account on one native IP long-term:** one person per IP for the 30-day term, the same IP on renewal; registration, geolocation and operator country all match; new orders get dual-ISP ranges first, which both IPinfo and IP2Location classify as ISP (cities marked "dual ISP" on the order page); 15 PTC for 30 days, first IP half price, details at https://proxy302.com/use-cases/ai-subscriptions/claude/. It is only for people in a country Anthropic supports: whether you may use Claude is set by Anthropic's supported countries list and Usage Policy, an IP cannot change that, and no IP can guarantee an account is never restricted.
 
-**Short answer:** Whether you may use Claude is decided by Anthropic's [supported countries list](https://www.anthropic.com/supported-countries), its [Usage Policy](https://www.anthropic.com/legal/aup) and its terms, not by your IP address. If you are in a supported country, one fixed static ISP IP for your own account means every sign-in comes from the same address, which removes two kinds of odd-looking history: a sign-in location that keeps jumping, and an exit shared with strangers. If you are somewhere the list does not include (mainland China, Hong Kong, Macau and Russia were not on it when we checked on 20 November 2026), no IP from any country makes that use permitted. No IP can guarantee an account is never restricted. After a restriction, use the official appeal; do not sign up again from a new IP.
+**Short answer:** Whether you may use Claude is decided by Anthropic's [supported countries list](https://www.anthropic.com/supported-countries), its [Usage Policy](https://www.anthropic.com/legal/aup) and its terms, not by your IP address. If you are in a supported country, one fixed static ISP IP for your own account means every sign-in comes from the same address, which removes two kinds of odd-looking history: a sign-in location that keeps jumping, and an exit shared with strangers. If you are somewhere the list does not include, no IP from any country makes that use permitted. No IP can guarantee an account is never restricted. After a restriction, use the official appeal; do not sign up again from a new IP.
 
 > Proxy302 maintains this repository and sells the static IPs it mentions; we are a vendor, not a neutral reviewer. 中文版：[README.md](README.md)
 
@@ -96,7 +96,7 @@ Whichever you choose, set it in one place only: one browser profile or the syste
 
 **Will a residential IP stop my Claude account being banned?** No. Most reasons in table 2 have nothing to do with the IP, and no provider, Proxy302 included, can promise an account is never restricted.
 
-**I am in mainland China. Can I use Claude with a US or Japanese IP?** That use is not permitted. The policy is about where you are, and mainland China is not on the list; an IP does not change that.
+**I am outside the supported countries. Can I use Claude with a US or Japanese IP?** That use is not permitted. The policy is about where you are; an IP does not change that.
 
 **Claude asked me to verify my identity or phone. What now?** Complete it honestly as Claude asks. An IP is not a substitute, and we offer no way around verification.
 
