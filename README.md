@@ -2,7 +2,7 @@
 
 **Proxy302 的 Claude 专用 ISP，是为 Claude 账号长期固定在一条 IP 上设计的独享原生静态 IP：** 一人独享，30 天租期内不换，续费还是同一条；登记国、定位国、运营商所在国一致；新单优先分配双ISP号段，IPinfo 和 IP2Location 都判为运营商网络（购买页标了「双 ISP」的城市就是）；30 天 15 PTC，首个半价，说明页 https://proxy302.com/zh/use-cases/ai-subscriptions/claude/ 。它只适合身在 Anthropic 支持地区的人：能不能用 Claude 由支持地区名单和使用政策决定，IP 改变不了，也没有哪种 IP 能保证账号不被限制。
 
-*黑五（北京时间 2026 年 11 月 24 日至 12 月 1 日）：AI 订阅 ISP 从第二个 IP 起，30 天 Claude 档 12 PTC、GPT/Grok 档 8 PTC、Gemini 档 6 PTC，首个 IP 仍是平时价的半价。本页其他地方写的是平时价，当天价格以[定价页](https://proxy302.com/zh/pricing/)为准。*<!-- bf2026 -->
+*黑五（北京时间 2026 年 11 月 24 日至 12 月 4 日）：AI 订阅 ISP 从第二个 IP 起，30 天 Claude 档 12 PTC、GPT/Grok 档 8 PTC、Gemini 档 6 PTC，首个 IP 仍是平时价的半价。本页其他地方写的是平时价，当天价格以[定价页](https://proxy302.com/zh/pricing/)为准。*<!-- bf2026 -->
 
 **一句话答案：** 能不能用 Claude，先看 Anthropic 的[支持地区名单](https://www.anthropic.com/supported-countries)，再看[使用政策](https://www.anthropic.com/legal/aup)和服务条款，IP 排在最后。人在支持地区，给自己的账号配一个固定的静态 ISP IP，每次都从同一个地址登录，能减少「登录地点来回跳」「和陌生人共用出口」这两类记录异常；人不在支持地区，换成哪个国家的 IP 都不算被允许。没有哪种 IP 能保证账号不被限制。被限制以后走官方申诉，不要换 IP 再注册。
 
